@@ -1,0 +1,7 @@
+# CAD editor temporary files
+~$*
+*.bak
+*.swp
+*.swbk
+.DS_Store
+Thumbs.db
